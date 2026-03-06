@@ -1,2 +1,2 @@
-# DishNest
-DishNest is a web application that lets users browse recipes, view ingredients and cooking instructions, and save their favorite dishes for easy access later. It’s designed to make finding and organizing recipes simple and convenient.
+# Recipe-App
+This is a simple recipe app that lets users discover and view recipes from a variety of dishes. Users can browse through recipes to find new meal ideas, making it easy and quick to explore different foods.
